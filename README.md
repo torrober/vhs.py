@@ -1,7 +1,8 @@
 ## vhs.py
-![](https://s11.gifyu.com/images/SgV0e.gif)
-Python electromagnetic video emulator, designed to be parameterizable and based on the 'River of the Valley' method to emulate VHS.
 
+Python electromagnetic video emulator, designed to be parameterizable and based on the 'River of the Valley' method to emulate VHS.
+## Example
+![](ezgif-2-3451c58aac.gif)
 ## How it works?
 
 Here's a simplified explanation of how the code works:
