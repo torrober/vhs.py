@@ -1,6 +1,6 @@
 ## vhs.py
 
-Python electromagnetic video emulator, designed to be parameterizable and based on the 'River of the Valley' method to emulate VHS.
+Analog videotape emulator, written in Python
 ## Example
 ![](ezgif-2-3451c58aac.gif)
 ## How it works?
