@@ -1,0 +1,13 @@
+# Ignore video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.mpeg
+*.mpg
+*.webm
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
