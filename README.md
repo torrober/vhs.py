@@ -28,3 +28,5 @@ vhs.generation = 3
 1. clone this repo
 2. run pip install requirements.txt
 3. run python index.py to open UI interface
+## Additional Resources
+- <a href="https://youtu.be/5gpZqF-UVzM">River of the valley</a> explanation on how VHS damage is simulated
