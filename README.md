@@ -1,8 +1,9 @@
 ## vhs.py
 
 Analog videotape emulator, written in Python
-## Example
+## Examples
 ![](ezgif-2-3451c58aac.gif)
+![](https://i.imgur.com/MESDPQb.png)
 ## How it works?
 
 Here's a simplified explanation of how the code works:
